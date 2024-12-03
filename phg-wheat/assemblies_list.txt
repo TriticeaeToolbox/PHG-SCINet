@@ -1,0 +1,14 @@
+/project/genolabswheatphg/clay_phg/fasta/Jagger.fa
+/project/genolabswheatphg/clay_phg/fasta/Lancer.fa
+/project/genolabswheatphg/clay_phg/fasta/Renan.fa
+/project/genolabswheatphg/clay_phg/fasta/Mace.fa
+/project/genolabswheatphg/clay_phg/fasta/Paragon.fa
+/project/genolabswheatphg/clay_phg/fasta/Stanley.fa
+/project/genolabswheatphg/clay_phg/fasta/Cadenza.fa
+/project/genolabswheatphg/clay_phg/fasta/Norin61.fa
+/project/genolabswheatphg/clay_phg/fasta/Landmark.fa
+/project/genolabswheatphg/clay_phg/fasta/Mattis.fa
+/project/genolabswheatphg/clay_phg/fasta/Claire.fa
+/project/genolabswheatphg/clay_phg/fasta/Julius.fa
+/project/genolabswheatphg/clay_phg/fasta/Kariega.fa
+/project/genolabswheatphg/clay_phg/fasta/Robiqus.fa
